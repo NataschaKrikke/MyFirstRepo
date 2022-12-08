@@ -1,3 +1,7 @@
 This is some text
+<<<<<<< HEAD
 Adding this change on the main branch
 iets met tekst
+=======
+Adding this change on the conflict branch
+>>>>>>> ConflictBranch
